@@ -1,3 +1,15 @@
+# 问题责任人
+
+### qinwei
+- 项目模块
+- 客户模块
+- 任务模块
+- 用户登录模块
+- 系统模块内（用户管理、业务机构管理、角色管理）
+
+### houyingjie
+除以上
+
 # OAProject Issues提交规范
 
 - 测试地址:http://oa.unitechance.com/
